@@ -11,8 +11,6 @@ class RestauranteAdmin(admin.ModelAdmin):
         "horario",
         "num_funcionarios",
         "capacidade",
-        "created_at",
-        "modified_at",
     )
 
 
